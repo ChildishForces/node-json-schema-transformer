@@ -53,7 +53,7 @@
     "lint": "oxlint .",
     "prepublishOnly": "napi prepublish -t npm",
     "test": "bun test __test__",
-    "preversion": "napi build --platform && git add .",
+    "preversion": "napi build --platform --esm && git add .",
     "version": "napi version",
     "prepare": "husky"
   },
