@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b7f8498-94f9-4837-861a-d719eea728b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="6" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="f6OVMOFe" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.4594450792527995E-51" />
+      <entry key="MS500" value="7.553863237741928E-11" />
+      <entry key="S2" value="0.003155928902307843" />
+      <entry key="S5" value="0.14797989245450452" />
+      <entry key="S10" value="0.6301183176279656" />
+      <entry key="S30" value="1.7617378248569815" />
+      <entry key="S60" value="2.3002592757772264" />
+      <entry key="M2" value="2.8040038128204205" />
+      <entry key="M5" value="4.464144783350253" />
+      <entry key="M10" value="6.289086657571351" />
+      <entry key="M15" value="7.24541211815797" />
+      <entry key="M30" value="8.458752507508848" />
+      <entry key="H1" value="9.183249499110262" />
+      <entry key="H2" value="9.579380194246724" />
+      <entry key="H4" value="9.78653502587548" />
+      <entry key="D1" value="9.963976092230423" />
+      <entry key="W1" value="9.994842686272653" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000000000000573" />
+      <entry key="MS500" value="1.0022471328245344" />
+      <entry key="S2" value="1.2439382368296306" />
+      <entry key="S5" value="1.796261463211066" />
+      <entry key="S10" value="2.3609902947613866" />
+      <entry key="S30" value="3.20856582026382" />
+      <entry key="S60" value="3.570192994036972" />
+      <entry key="M2" value="3.9589383438274663" />
+      <entry key="M5" value="5.039602705399053" />
+      <entry key="M10" value="6.0653716436288105" />
+      <entry key="M15" value="6.577294655884402" />
+      <entry key="M30" value="7.211633615051265" />
+      <entry key="H1" value="7.584280544331192" />
+      <entry key="H2" value="7.786440223943603" />
+      <entry key="H4" value="7.891753508118388" />
+      <entry key="D1" value="7.981751590814488" />
+      <entry key="W1" value="7.9973879589339365" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.012779719664965937" />
+      <entry key="MS500" value="0.41902933464915654" />
+      <entry key="S2" value="0.9902907723426343" />
+      <entry key="S5" value="1.7288828009693" />
+      <entry key="S10" value="2.80203214273148" />
+      <entry key="S30" value="4.8599632748572645" />
+      <entry key="S60" value="5.804877003432168" />
+      <entry key="M2" value="6.725728733771922" />
+      <entry key="M5" value="9.484930741843979" />
+      <entry key="M10" value="12.343202035319052" />
+      <entry key="M15" value="13.814582075628119" />
+      <entry key="M30" value="15.665936813718229" />
+      <entry key="H1" value="16.765191137561906" />
+      <entry key="H2" value="17.3646198901706" />
+      <entry key="H4" value="17.67768016456212" />
+      <entry key="D1" value="17.945625132696367" />
+      <entry key="W1" value="17.992215966465327" />
+    </decayedShown>
+  </component>
+  <component name="NoctuleProjectWorkspaceSettings">
+    <option name="migratedAutodetectionSetting" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JgLysKeEWpDVBksyked8PP2gBW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/chris/Library/Caches/JetBrains/RustRover2026.2/ts-go-native-preview/v7.0.0-dev.jetbrains.20260702.4/node_modules/@typescript/native-preview-darwin-arm64/lib"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Test" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --package node-json-schema-transformer --lib tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SwiftProjectSettings">
+    <option name="detectedToolchain" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b7f8498-94f9-4837-861a-d719eea728b7" name="Changes" comment="" />
+      <created>1790078021139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790078021139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

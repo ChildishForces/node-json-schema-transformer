@@ -1,0 +1,25 @@
+[package]
+authors = ["LongYinan <lynweklm@gmail.com>"]
+edition = "2021"
+name = "node_json_schema_transformer"
+version = "0.1.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+napi-derive = "3.6.5"
+json-schema-transformer = { version = "0.2.1", features = ["all-emitters"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+
+[dependencies.napi]
+version = "3.12.4"
+features = ["napi3", "dyn-symbols", "serde-json"]
+default-features = false
+
+[build-dependencies]
+napi-build = "2.4.2"
+
+[profile.release]
+lto = true
+strip = "symbols"
