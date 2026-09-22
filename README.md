@@ -7,7 +7,7 @@ Supported targets: **Zod** (TypeScript), **TypeScript** declarations, **Pydantic
 ## Install
 
 ```bash
-yarn add node-json-schema-transformer
+bun add node-json-schema-transformer
 ```
 
 Prebuilt binaries are published for macOS (x64/arm64), Linux (x64/arm64 gnu), and Windows (x64).
