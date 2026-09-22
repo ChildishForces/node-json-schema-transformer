@@ -2,7 +2,7 @@
 authors = ["LongYinan <lynweklm@gmail.com>"]
 edition = "2021"
 name = "node_json_schema_transformer"
-version = "0.1.0"
+version = "0.2.1"
 
 [lib]
 crate-type = ["cdylib"]
