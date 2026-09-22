@@ -1,6 +1,6 @@
 {
   "name": "node-json-schema-transformer",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Transform JSON Schema into native types and validation schemas for multiple languages",
   "main": "index.js",
   "type": "module",
